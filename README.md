@@ -10,8 +10,8 @@
 
 # Features
 - Can download mp3 or mp4 files from Youtube & Youtube Short links highest quality & bitrate possible. CPU & GPU ones are for video editors that use softwares like After Effects. It encodes the video to make it compatible with AE.
-- Youtube_Downloader_daily is for daily usage and faster since it doesn't do extra encoding for AE. It might work for AE sometimes. But not as certain as Youtube_Downloader_GPU.
-- Youtube_Downloader_GPU is most of the time fastest. But for people who have really crappy GPU, i also released one that works with CPU too.
+- Youtube_Downloader_daily is for daily usage and fastest since it doesn't do extra encoding for AE. It might work for AE sometimes. But not as certain as Youtube_Downloader_GPU.
+- Youtube_Downloader_GPU is most of the time faster than CPU if you don't have crappy GPU. But for people who have really crappy GPU, i also released one that works with CPU too.
 - Downloaded video will be in file "Videos" which is in the same path with executable
 
 # Usage
