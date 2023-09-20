@@ -19,3 +19,6 @@
 - Pick audio or video. (a/v)
 - If video, pick available quality.
 - Done.
+
+# Known Issues
+- Windows Media Encoder have really low range of Kodec support. Some videos might not have audio when played on Windows Media Player. And I didn't want to encode the video again just because of that. Just use any other Media Player like VLC or MPC. There will be no problems on discord. As far as i can see. 
