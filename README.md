@@ -1,8 +1,8 @@
 # GPU-Accelerated-Youtube-Media-Downloader
 
 # Purpose
-1 - Quickly sample content from youtube for music producers or video editors to use. As high quality and fast as possible. But to be fair, quality is more prioritized. So don't get surprised if you see 5-10 minutes of video to have 200 megabytes of size when downloading or encoding. Its literally the raw video itself.
-2 - Avoid websites filled with ads, that doesn't provide video for you higher than 30fps or 1080p. This tool can download whatever is possible for that video. Without losing nearly any detail. For free and faster. Finally its worth to have god-like pc.
+- Quickly sample content from youtube for music producers or video editors to use. As high quality and fast as possible. But to be fair, quality is more prioritized. So don't get surprised if you see 5-10 minutes of video to have 200 megabytes of size when downloading or encoding. Its literally the raw video itself.
+- Avoid websites filled with ads, that doesn't provide video for you higher than 30fps or 1080p. This tool can download whatever is possible for that video. Without losing nearly any detail. For free and faster. Finally its worth to have god-like pc.
 
 # Requirements
 - Python & Libraries https://www.python.org/downloads/ & Execute "install_libraries.py"
