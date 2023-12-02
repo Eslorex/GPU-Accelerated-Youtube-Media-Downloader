@@ -22,4 +22,5 @@
 
 # Known Issues
 - Using .exe instead of .py files is slower. Use source files if you're having trouble.
-- Windows Media Encoder have really low range of Kodec support. Some videos might not have audio when played on Windows Media Player. And I didn't want to encode the video again just because of that. Just use any other Media Player like VLC or MPC. There will be no problems on discord. As far as i can see. 
+- Most videos are compatible with Windows Media Player but since the Youtube keeps their videos in different formats for different scenerios, this situation might change depending on the video and its quality. Since we don't encode everything into single codec standard to avoid long, encoding progress, it MIGHT cause incompatibilities in Windows Media Player. GPU one solves this issue by encoding everything into a compatible standart with Media Player and After Effects but it takes a little while but not longer than online websites for sure. Since most websites doesn't even provide 4k video download option without any compression. So, if you have any issues with Windows Media Player, just use something like VLC Player and problem will be solved. Its kinda funny that Windows have less range of support on codecs than 3rd party media players. 
+
